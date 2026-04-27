@@ -20,5 +20,16 @@ The system takes employee input such as ID, name, salary per day, and attendance
 - Convert into Spring Boot REST API
 - Add user interface
 
+ 
+## Sample Output
+Enter Employee ID: 1  
+Enter Employee Name: Kavya  
+Enter Salary per Day: 500  
+Enter Days Present: 20  
+
+--- Employee Details ---
+Name: Kavya  
+Total Salary: 10000
+
 ## Author
 Kavya 
